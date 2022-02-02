@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @VictorVidal7, IT consultant with more than 10 years of experience in the field, providing high level solutions to business problems, generating proposals for improvement, obtaining optimal, stable, quality products and services, and reducing costs. 
-Strategic and flexible leader, motivated and oriented to results and fulfillment of objectives, proactive, with great capacity to adapt to change, as well as skills and knowledge in:
-✔ Strategic planning
-✔ Organizational development
-✔ Project management
-✔ Agile methodologies
-✔ Innovation
-✔ Business intelligence
-✔ Data analysis
+- 👋 Hi, I’m @VictorVidal7, Information technology consultant with about 11 years of experience in the sector, providing solutions to business problems, collaborating in obtaining quality products and services, as well as reducing costs.
+I am a strategic and flexible professional, results and goal oriented. 
+Highlighted skills in: ✔ Data Science ✔ Business Intelligence ✔ Agile Methodologies ✔ PM ✔ Innovation
 
+- 🙋🏻‍♂️ I'm programming mainly on Python
 - 👀 I’m interested now web development matters
 - 🌱 I’m currently learning web development frameworks
 - 📫 How to reach me ... victor_vdu@hotmail.com. 
