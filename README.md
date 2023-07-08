@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictorVidal7, Information technology consultant with about 11 years of experience in the sector, providing solutions to business problems, collaborating in obtaining quality products and services, as well as reducing costs.
+- 👋 Hi, I’m @VictorVidal7, Information technology consultant with about 12 years of experience in the sector, providing solutions to business problems, collaborating in obtaining quality products and services, as well as reducing costs.
 I am a strategic and flexible professional, results and goal oriented. 
 Highlighted skills in: ✔ Data Science ✔ Business Intelligence ✔ Agile Methodologies ✔ PM ✔ Innovation
 
