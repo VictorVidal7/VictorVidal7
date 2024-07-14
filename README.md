@@ -25,8 +25,6 @@ I am a passionate Data Engineer with experience in developing innovative solutio
 - **Visualization**: 
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-2C5BB4?style=for-the-badge&logo=matplotlib&logoColor=white) 
-  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 
 - **Cloud**: 
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
